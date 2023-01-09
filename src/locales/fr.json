@@ -1,0 +1,126 @@
+{
+    "tableau de bord": {
+      "completedTasks": "Tâches terminées",
+      "dailySales": "Ventes quotidiennes",
+      "performance": "Performance",
+      "simpleTable": "Tableau simple",
+      "totalShipments": "Total des expéditions",
+      "chartCategories": [
+        "Comptes",
+        "Achats",
+        "Sessions"
+      ],
+      "tâches": "Tâches ({count})",
+      "today": "Today",
+      "menu déroulant": {
+        "action": "Action",
+        "anotherAction": "Another Action",
+        "somethingElse": "Quelque chose d'autre"
+      },
+      "usersTable": {
+        "title": "Tableau simple",
+        "Colonnes": [
+          "Nom",
+          "Pays",
+          "Ville",
+          "Un salaire"
+        ],
+        "Les données": [
+          {
+            "id": 1,
+            "name": "Dakota Rice",
+            "salaire": "36,738 $",
+            "pays": "Niger",
+            "ville": "Oud-Turnhout"
+          },
+          {
+            "id": 2,
+            "nom": "Minerva Hooper",
+            "salaire": "23 789 $",
+            "pays": "Curaçao",
+            "ville": "Sinaai-Waas"
+          },
+          {
+            "id": 3,
+            "nom": "Sage Rodriguez",
+            "salaire": "56 142 $",
+            "country": "Pays-Bas",
+            "ville": "Baileux"
+          },
+          {
+            "id": 4,
+            "nom": "Philip Chaney",
+            "salaire": "38 735 $",
+            "country": "Corée du Sud",
+            "ville": "Overland Park"
+          },
+          {
+            "id": 5,
+            "nom": "Doris Greene",
+            "salaire": "63 542 $",
+            "pays": "Malawi",
+            "ville": "Feldkirchen in Kärnten"
+          },
+          {
+            "id": 6,
+            "nom": "Mason Porter",
+            "salaire": "98 615 $",
+            "country": "Chili",
+            "ville": "Gloucester"
+          },
+          {
+            "id": 7,
+            "nom": "Jon Porter",
+            "salaire": "78 615 $",
+            "pays": "Portugal",
+            "ville": "Gloucester"
+          }
+        ]
+      },
+      "liste de tâches": [
+        {
+          "title": "Mettre à jour la documentation",
+          "description": "Dwuamish Head, Seattle, WA 8h47",
+          "done": false
+        },
+        {
+          "title": "GDPR Compliance",
+          "description": "Le RGPD est un règlement qui oblige les entreprises à protéger les données personnelles et la vie privée des citoyens européens pour les transactions qui ont lieu dans les États membres de l'UE.",
+          "done": true
+        },
+        {
+          "title": "Résoudre les problèmes",
+          "description": "Cinquante pour cent de tous les répondants ont déclaré qu'ils seraient plus susceptibles de faire des achats dans une entreprise",
+          "done": false
+        },
+        {
+          "title": "Release v2.0.0",
+          "description": "Ra Ave SW, Seattle, WA 98116, SUA 11:19",
+          "done": false
+        },
+        {
+          "title": "Exporter les fichiers traités",
+          "description": "Le rapport montre également que les consommateurs ne pardonneront pas facilement à une entreprise une fois qu'une violation exposant leurs données personnelles se produira.",
+          "done": false
+        },
+        {
+          "title": "Arrivée au processus d'exportation",
+          "description": "Capitol Hill, Seattle, WA 00h34",
+          "done": false
+        }
+      ]
+    },
+    "sidebar": {
+      "title": "EasyManage",
+      "categories": "categories",
+      "shortTitle": "EM",
+      "dashboard": "Tableau de bord",
+      "icons": "Icons",
+      "maps": "Maps",
+      "notifications": "Notifications",
+      "userProfile": "Profil utilisateur",
+      "tableList": "Liste des tableaux",
+      "typographie": "Typographie",
+      "rtlSupport": "Support RTL"
+    }
+  }
